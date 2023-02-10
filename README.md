@@ -3,15 +3,19 @@
 # Project Step
 
 1. Create React App
+
 2. Create Git Repository
+
 3. Listed products
     i. created featured products page
     ii. added product images.
     iii. style products
+
 4. Added Page Routing
     i. created route for home screen   
     ii. created route for product screen  
     iii. installed react-router-dom
+
 5. Created Server for Backend
    (Node.JS Server)
    i. Created Backend folder and added     server.js file
@@ -22,3 +26,11 @@
    vi. create route to return backend
    vii. move products.js from frontend to backend
    viii. create route for /api/products at a local host address of 5000
+   ix. Installed nodemon
+   
+6. Fetched Products from Backend
+    i. set proxy in package.json
+    ii. npm install axios
+    iii. use usestate hook
+    iv. use useEffect Hook
+
